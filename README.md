@@ -1,2 +1,2 @@
 # college-lab-assignments
-The lab assignments of 2nd semester of Techno India University.
+The lab and theory assignments of cse branch of Techno India University.
